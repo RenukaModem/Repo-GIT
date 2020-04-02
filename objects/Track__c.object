@@ -114,7 +114,7 @@
     <fields>
         <fullName>Track_Formula__c</fullName>
         <externalId>false</externalId>
-        <formula>IF (CONTAINS( AdditionalInformation , &quot;Business Financial Review&quot;), IF(ISPICKVAL( Language_Preference__c ,&apos;Spanish&apos;),&quot;evaluación financiera comercial&quot;,&quot;Business Financial Review&quot;),&quot;&quot;)</formula>
+        <formula>Field123__c</formula>
         <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
         <label>Track Formula</label>
         <required>false</required>
