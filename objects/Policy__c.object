@@ -142,6 +142,14 @@
     </actionOverrides>
     <allowInChatterGroups>false</allowInChatterGroups>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
+    <compactLayouts>
+        <fullName>Rule</fullName>
+        <fields>Name</fields>
+        <fields>CreatedById</fields>
+        <fields>LastModifiedById</fields>
+        <fields>OwnerId</fields>
+        <label>Rule</label>
+    </compactLayouts>
     <deploymentStatus>Deployed</deploymentStatus>
     <enableActivities>false</enableActivities>
     <enableBulkApi>true</enableBulkApi>

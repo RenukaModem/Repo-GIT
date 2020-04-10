@@ -2,6 +2,10 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>48.0</version>
     <types>
+        <members>Policy__c.Rule</members>
+        <name>CompactLayout</name>
+    </types>
+    <types>
         <members>Track__c.AutorabitExtId__c</members>
         <members>Track__c.Dataloader_Config__c</members>
         <members>Track__c.Field123__c</members>
