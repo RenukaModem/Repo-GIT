@@ -19,6 +19,7 @@
     <types>
         <members>Policy__c</members>
         <members>Track__c</members>
+        <members>Transport__c</members>
         <name>CustomObject</name>
     </types>
     <types>
