@@ -12,6 +12,7 @@
     </types>
     <types>
         <members>Policy__c.Rule</members>
+        <members>Transport__c.Rule</members>
         <name>CompactLayout</name>
     </types>
     <types>
@@ -23,6 +24,8 @@
         <members>Track__c.Track_Formula__c</members>
         <members>Track__c.Track_list__c</members>
         <members>Track__c.trackdate__c</members>
+        <members>Transport__c.contact_number__c</members>
+        <members>Transport__c.road__c</members>
         <name>CustomField</name>
     </types>
     <types>
