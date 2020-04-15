@@ -163,4 +163,36 @@
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
+    <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
+    <compactLayouts>
+        <fullName>Rule</fullName>
+        <fields>contact_number__c</fields>
+        <fields>CreatedById</fields>
+        <fields>LastModifiedById</fields>
+        <fields>OwnerId</fields>
+        <fields>road__c</fields>
+        <fields>Name</fields>
+        <label>Rule</label>
+    </compactLayouts>
+	<fields>
+        <fullName>contact_number__c</fullName>
+        <externalId>false</externalId>
+        <label>contact number</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>road__c</fullName>
+        <externalId>false</externalId>
+        <label>Road trnspt</label>
+        <length>30</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
 </CustomObject>
