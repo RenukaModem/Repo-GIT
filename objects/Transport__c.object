@@ -163,7 +163,7 @@
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
-    <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
+    <compactLayoutAssignment>Rule</compactLayoutAssignment>
     <compactLayouts>
         <fullName>Rule</fullName>
         <fields>contact_number__c</fields>
