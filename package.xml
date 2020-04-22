@@ -2,6 +2,12 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>47.0</version>
     <types>
+        <members>A0</members>
+        <members>A0123</members>
+        <members>A025</members>
+        <members>A026</members>
+        <members>A027</members>
+        <members>A028</members>
         <members>MockHttpResponseGenerator</members>
         <name>ApexClass</name>
     </types>
@@ -36,6 +42,10 @@
     <types>
         <members>Internal Zone</members>
         <name>Community</name>
+    </types>
+    <types>
+        <members>Transport__c.Rule</members>
+        <name>CompactLayout</name>
     </types>
     <types>
         <members>standard__AppLauncher</members>
@@ -945,7 +955,9 @@
         <members>PaymentMethod.Name</members>
         <members>PaymentMethod.NickName</members>
         <members>PaymentMethod.Status</members>
+        <members>Policy__c.Contact__c</members>
         <members>Policy__c.Record1__c</members>
+        <members>Policy__c.Record2__c</members>
         <members>Pricebook2.Description</members>
         <members>Pricebook2.IsActive</members>
         <members>Pricebook2.IsStandard</members>
@@ -1171,6 +1183,16 @@
         <members>TimeSlot.StartTime</members>
         <members>TimeSlot.Type</members>
         <members>TimeSlot.WorkTypeGroupId</members>
+        <members>Track__c.AutorabitExtId__c</members>
+        <members>Track__c.Dataloader_Config__c</members>
+        <members>Track__c.Field123__c</members>
+        <members>Track__c.Field345__c</members>
+        <members>Track__c.Newfieldtrack__c</members>
+        <members>Track__c.Track_Formula__c</members>
+        <members>Track__c.Track_list__c</members>
+        <members>Track__c.trackdate__c</members>
+        <members>Transport__c.contact_number__c</members>
+        <members>Transport__c.road__c</members>
         <members>User.ManagerId</members>
         <members>UserProvisioningRequest.AppName</members>
         <members>UserProvisioningRequest.ApprovalStatus</members>
@@ -1327,6 +1349,8 @@
         <members>TimeSlot</members>
         <members>Topic</members>
         <members>TopicAssignment</members>
+        <members>Track__c</members>
+        <members>Transport__c</members>
         <members>User</members>
         <members>UserProvisioningRequest</members>
         <members>WorkType</members>
@@ -1567,6 +1591,7 @@
         <members>Task.RecurringTasks</members>
         <members>Task.TodaysTasks</members>
         <members>Task.UnscheduledTasks</members>
+        <members>Track__c.All</members>
         <members>User.ActiveUsers</members>
         <members>User.AdminUsers</members>
         <members>User.AllUsers</members>
