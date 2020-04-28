@@ -154,7 +154,7 @@
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
     <fields>
-        <fullName>Contact__c</fullName>
+        <fullName>Contact22222222222222__c</fullName>
         <externalId>false</externalId>
         <label>Contact</label>
         <precision>18</precision>
@@ -175,7 +175,7 @@
         <unique>false</unique>
     </fields>
     <fields>
-        <fullName>Field1__c</fullName>
+        <fullName>Field12345678888__c</fullName>
         <externalId>false</externalId>
         <label>Field1</label>
         <length>30</length>
@@ -185,7 +185,7 @@
         <unique>false</unique>
     </fields>
     <fields>
-        <fullName>MailingState__c</fullName>
+        <fullName>MailingState99999999__c</fullName>
         <externalId>false</externalId>
         <label>MailingState</label>
         <length>2</length>
