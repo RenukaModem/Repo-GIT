@@ -9,16 +9,8 @@
         <value>New Objects</value>
     </caseValues>
     <fields>
-        <label><!-- Contact --></label>
-        <name>Contact__c</name>
-    </fields>
-    <fields>
         <label><!-- Drivers License --></label>
         <name>Drivers_License__c</name>
-    </fields>
-    <fields>
-        <label><!-- Field1 --></label>
-        <name>Field1__c</name>
     </fields>
     <fields>
         <label><!-- MailingState --></label>

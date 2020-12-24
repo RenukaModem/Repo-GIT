@@ -548,7 +548,6 @@
         <trackTrending>false</trackTrending>
         <type>Picklist</type>
         <valueSet>
-            <controllingField>Reason</controllingField>
             <valueSetDefinition>
                 <sorted>false</sorted>
                 <value>
@@ -562,12 +561,6 @@
                     <label>Yes</label>
                 </value>
             </valueSetDefinition>
-            <valueSettings>
-                <controllingFieldValue>Breakdown</controllingFieldValue>
-                <controllingFieldValue>Equipment Design</controllingFieldValue>
-                <controllingFieldValue>Performance</controllingFieldValue>
-                <valueName>No</valueName>
-            </valueSettings>
         </valueSet>
     </fields>
     <fields>
