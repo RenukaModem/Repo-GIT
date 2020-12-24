@@ -2,6 +2,7 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>48.0</version>
     <types>
+        <members>A0</members>
         <members>A012378</members>
         <members>A025</members>
         <members>A026</members>
@@ -13,6 +14,8 @@
         <members>A127</members>
         <members>ADDED</members>
         <members>ADel1</members>
+        <members>ApexClass1</members>
+        <members>AppCls02</members>
         <members>ChangePasswordController</members>
         <members>ChangePasswordControllerTest</members>
         <members>ChangeUserName_Test</members>
@@ -1710,6 +1713,10 @@
         <members>DE Defaulté</members>
         <members>TestPackage</members>
         <name>HomePageLayout</name>
+    </types>
+    <types>
+        <members>Customer_Interaction__b.CustomerInteractionsIndex</members>
+        <name>Index</name>
     </types>
     <types>
         <members>CMTD</members>
