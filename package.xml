@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+<?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>48.0</version>
     <types>
         <members>A012378</members>
@@ -881,6 +880,7 @@
         <members>Ez_Commit__c.Test__c</members>
         <members>FetchChangesTest__c.Commit_Amount__c</members>
         <members>FetchChangesTest__c.Field2__c</members>
+        <members>Frame__c.place1__c</members>
         <members>Goal.OrigGoalId__c</members>
         <members>Idea.Categories</members>
         <members>Idea.NewCategory__c</members>
@@ -1484,6 +1484,7 @@
         <members>Ez_Commit__c</members>
         <members>FeedItem</members>
         <members>FetchChangesTest__c</members>
+        <members>Frame__c</members>
         <members>Idea</members>
         <members>IgnoreMissingVisibility__c</members>
         <members>Image</members>
@@ -1710,6 +1711,10 @@
         <members>DE Defaulté</members>
         <members>TestPackage</members>
         <name>HomePageLayout</name>
+    </types>
+    <types>
+        <members>Customer_Interaction__b.CustomerInteractionsIndex</members>
+        <name>Index</name>
     </types>
     <types>
         <members>CMTD</members>
@@ -2402,16 +2407,8 @@
         <name>StaticResource</name>
     </types>
     <types>
-        <members>Test_Territory_Model.Test_Territory_Hierarchy</members>
-        <name>Territory2</name>
-    </types>
-    <types>
         <members>Test_Territory_Model</members>
         <name>Territory2Model</name>
-    </types>
-    <types>
-        <members>Test_Territory_Model.Test_Territory_Rule1</members>
-        <name>Territory2Rule</name>
     </types>
     <types>
         <members>Test_Territory</members>
